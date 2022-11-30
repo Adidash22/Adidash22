@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T15:34:10.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="KcFKoyvzS-OWaN-RHXCe" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T15:57:35.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="YmdNekz2xfQHMYHJ228C" version="20.6.0" type="github">
   <diagram id="QuyXBmPVxG1DyAZPm5KU" name="Page-1">
-    <mxGraphModel dx="2538" dy="2331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2680" dy="2427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -304,8 +304,8 @@
         <mxCell id="g9eDpFnCgDd-yHnlJycP-114" value="Max 10 each" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="322.5" y="1060" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g9eDpFnCgDd-yHnlJycP-115" value="&lt;h1&gt;Configs&lt;/h1&gt;&lt;div&gt;Toaster: 12 regular buns or 6 Macs or 10 1/4 lb&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Toasters (4 Nos) -&amp;gt; HB normal - 2 | Mac - 1 | 1/4 lb - 1&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Grill: HB - 24&lt;/div&gt;&lt;div&gt;Grill 1/4 - 10&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="440.5" width="419.5" height="180" as="geometry" />
+        <mxCell id="g9eDpFnCgDd-yHnlJycP-115" value="&lt;h1&gt;Configs&lt;/h1&gt;&lt;div&gt;Toaster: 12 regular buns or 6 Macs or 10 1/4 lb&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Big Mac has 2 patties&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Toasters (4 Nos) -&amp;gt; HB normal - 2 | Mac - 1 | 1/4 lb - 1&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Grill: HB - 24&lt;/div&gt;&lt;div&gt;Grill 1/4 - 10&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fryer &amp;amp; Pies has 1 step&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-80" width="559.5" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
