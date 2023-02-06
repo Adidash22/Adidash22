@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T13:09:53.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="EPqtcxA7pA3UPdiC1Cyt" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T13:22:17.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Rmtchbtfi8g9aAjLLLfo" version="20.8.16" type="github">
   <diagram id="vz4kG2Y2-ath3LAxBhqk" name="Page-1">
     <mxGraphModel dx="1391" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,6 +8,15 @@
           <mxGeometry x="110" y="80" width="640" height="112" as="geometry">
             <mxRectangle x="130" y="120" width="40" height="150" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Y7x_5CgsNfmayWwopYtb-7" value="Art Conneissuer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Y7x_5CgsNfmayWwopYtb-1">
+          <mxGeometry x="80" y="26" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7x_5CgsNfmayWwopYtb-8" value="Casual Consumer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Y7x_5CgsNfmayWwopYtb-1">
+          <mxGeometry x="280" y="26" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7x_5CgsNfmayWwopYtb-9" value="Casual Consumer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Y7x_5CgsNfmayWwopYtb-1">
+          <mxGeometry x="470" y="26" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y7x_5CgsNfmayWwopYtb-2" value="Awareness" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="192" width="640" height="112" as="geometry">
