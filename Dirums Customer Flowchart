@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T12:59:16.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="TUO57POHYfcCyhBsLbRo" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T13:09:53.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="EPqtcxA7pA3UPdiC1Cyt" version="20.8.16" type="github">
   <diagram id="vz4kG2Y2-ath3LAxBhqk" name="Page-1">
-    <mxGraphModel dx="495" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1391" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Y7x_5CgsNfmayWwopYtb-1" value="Customer Types" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="640" height="112" as="geometry">
+            <mxRectangle x="130" y="120" width="40" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y7x_5CgsNfmayWwopYtb-2" value="Awareness" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="192" width="640" height="112" as="geometry">
+            <mxRectangle x="130" y="120" width="40" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y7x_5CgsNfmayWwopYtb-3" value="Consideration" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="304" width="640" height="112" as="geometry">
+            <mxRectangle x="130" y="120" width="40" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y7x_5CgsNfmayWwopYtb-4" value="Decision" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="416" width="640" height="112" as="geometry">
+            <mxRectangle x="130" y="120" width="40" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y7x_5CgsNfmayWwopYtb-5" value="Retention" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="110" y="640" width="640" height="112" as="geometry">
+            <mxRectangle x="130" y="120" width="40" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y7x_5CgsNfmayWwopYtb-6" value="Advocacy" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="528" width="640" height="112" as="geometry">
+            <mxRectangle x="130" y="120" width="40" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
